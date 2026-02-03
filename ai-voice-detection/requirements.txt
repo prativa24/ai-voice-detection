@@ -1,8 +1,5 @@
 fastapi
 uvicorn
 pydantic
-torch
-torchaudio
-librosa
 numpy
-python-multipart
+librosa
